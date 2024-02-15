@@ -1,4 +1,7 @@
 # packet-Analysis
+
+
+
 <img width="300" alt="ans" src="https://github.com/wngh1212/CTF-packet-Analysis/assets/88926634/12de3557-1925-4348-9d2b-fcd14b352cfe"><br>
 다른 사용자가 검색한 문자열 3가지를 찾는 문제이다.
 HTTP통신으로 넘어가는 암호화된 문자열들을 발견하였고
